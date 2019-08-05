@@ -6,4 +6,11 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
     }
+
+    @Test
+    public void test(){
+        int i =10;
+        int y =20;
+        System.out.println(i+y);
+    }
 }
