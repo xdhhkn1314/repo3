@@ -12,5 +12,8 @@ public class Main {
         int i =10;
         int y =20;
         System.out.println(i+y);
+        //test
+        System.out.println(i);
+        System.out.println(y);
     }
 }
